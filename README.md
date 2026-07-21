@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Thinesh-Thina&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![][(https://komarev.com/ghpvc/?username=Thinesh-Thina&icon=0&color=0)](https://visitcount.itsvg.in)](https://komarev.com/ghpvc/?username=Thinesh-Thina&style=flat-square&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=Thinesh-Thina&style=flat-square&color=brightgreen)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
