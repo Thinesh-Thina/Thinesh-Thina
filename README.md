@@ -44,4 +44,35 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![EJS](https://img.shields.io/badge/EJS-B4CA
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+- 📌 **MSME Project** – Web application for MSME scheme generation.
+- 📝 **Keeper Notes App** – Note-taking application built with React.
+- ✈️ **Family Travel Tracker** – Track family travel history and destinations.
+- ✅ **Permanent Todo App** – Simple task management application.
+- 🌐 **Personal Portfolio Website**
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Thinesh-Thina&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=Thinesh-Thina&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinesh-Thina&theme=tokyonight&hide_border=false&layout=compact)
+
+---
+
+![](https://komarev.com/ghpvc/?username=Thinesh-Thina&style=flat-square&color=blue)
